@@ -17,5 +17,4 @@ I'm a 2nd year Computer Science student interested in machine and deep learning.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
 
